@@ -1,5 +1,7 @@
 # NeetCode Solutions — @Stemaskk
 
+> **Note:** This repository is auto-updated by the NeetCode.io website. Each time I submit a solution there, it is committed here automatically, so the commit history reflects my practice on NeetCode rather than manual uploads.
+
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
